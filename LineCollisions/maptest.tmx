@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="18" tilewidth="32" tileheight="32">
+ <objectgroup name="lines" width="20" height="20">
+  <object x="192" y="288">
+   <polyline points="-96,-224 -64,-160 0,-224"/>
+  </object>
+  <object x="0" y="0">
+   <polyline points="0,0 0,224 352,256 288,0 0,0"/>
+  </object>
+ </objectgroup>
+</map>
